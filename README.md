@@ -14,7 +14,7 @@ Please check the time for each legion **BEFORE** sending a battle request for it
 
 **--Visual support (screenshots) will follow soon™--**
 
-When your requested time is the same as the one you initially voted for, you might be added to the legion.<br/>
+When your requested time is the same as the one you initially voted for, you will be added to the legion in a **FIRST COME FIRST SERVE** system.<br/>
 If the times **don't match**, write an direct message to SpiderPen (name might be not up to date at all times, ask a R4/5 for the current name) and explain why you can participate at a time you didn't vote for.
 
 
