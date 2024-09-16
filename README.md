@@ -6,7 +6,7 @@ As some people were confused about the sign-up process of the foundry battle, I 
 In the first step you will be able to vote for times that the foundry battle could take place at.<br/>
 **Please select EVERY time that is possible for you to attend. NOT JUST YOUR PREFERRED TIME!!!**
 
-**--Visual support (screenshots) will follow soon™--**
+![alt text](https://github.com/PenSpoon/Foundry-sign-up/foundry_voting.jpg "How to vote for your time!")
 
 ## Final registration
 After the time voting finished, I will set up the foundry times according to the voting results. Then you will be able to send battle requests for Legion 1 or 2.<br/>
