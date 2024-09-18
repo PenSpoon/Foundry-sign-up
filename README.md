@@ -12,7 +12,9 @@ In the first step you will be able to vote for times that the foundry battle cou
 After the time voting finished, I will set up the foundry times according to the voting results. Then you will be able to send battle requests for Legion 1 or 2.<br/>
 Please check the time for each legion **BEFORE** sending a battle request for it. 
 
-**--Visual support (screenshots) will follow soon™--**
+![foundry_battle_request__1](https://github.com/user-attachments/assets/56819d06-b434-4388-9302-102860a77bc7)
+![foundry_battle_request__2](https://github.com/user-attachments/assets/b0c73137-8cae-481d-8181-8b71d5e986a6)
+
 
 When your requested time is the same as the one you initially voted for, you will be added to the legion in a **FIRST COME FIRST SERVE** system.<br/>
 If the times **don't match**, write an direct message to SpiderPen (name might be not up to date at all times, ask a R4/5 for the current name) and explain why you can participate at a time you didn't vote for.
