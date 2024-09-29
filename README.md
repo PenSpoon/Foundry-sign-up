@@ -17,11 +17,12 @@ Please check the time for each legion **BEFORE** sending a battle request for it
 
 
 When your requested time is the same as the one you initially voted for, you will be added to the legion in a **FIRST COME FIRST SERVE** system.<br/>
-If the times **don't match**, write an direct message to SpiderPen (name might be not up to date at all times, ask a R4/5 for the current name) and explain why you can participate at a time you didn't vote for.
+If the times **don't match**, write an direct message to Daario Penaris (name might be not up to date at all times, ask a R4/5 for the current name) and explain why you can participate at a time you didn't vote for.
 
 
 ## After registration ends
 When the registration process is finished, your final foundry time will be shown on the task list.<br/>
-If you are unsure about your time, write another direct message to SpiderPen (name might be not up to date at all times, ask a R4/5 for the current name) and ask.
+If you are unsure about your time, write another direct message to Daario Penaris (name might be not up to date at all times, ask a R4/5 for the current name) and ask.
 
-**--Visual support (screenshots) will follow soon™--**
+![foundry_time](https://github.com/user-attachments/assets/4c3139b6-c191-4904-9519-96ca37bef9c5)
+
