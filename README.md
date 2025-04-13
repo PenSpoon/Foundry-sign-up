@@ -4,7 +4,7 @@ As some people were confused about the sign-up process of the foundry battle, I 
 
 ## Time voting
 In the first step you will be able to vote for times that the foundry battle could take place at.<br/>
-**Please select EVERY time that is possible for you to attend. NOT JUST YOUR PREFERRED TIME!!!**
+**Please select EVERY time that is possible for you to attend.**
 
 ![foundry_voting](https://github.com/user-attachments/assets/97b89d1b-8070-4a92-86f3-8a8a66dad330)
 
